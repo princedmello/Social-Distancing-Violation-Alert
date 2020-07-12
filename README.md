@@ -5,7 +5,7 @@
     Clone the full code in a file on your pc. 
     Github usually doesn't support files larger than 25 Mb.
     You can find the yolo weights in -
-    [My google drive] (https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
+    [My google drive](https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
     Download yolo3.weights file and move it to yolo-coco folder.
 
 ## For CPU: 
