@@ -45,5 +45,5 @@ Ensure you have the following installed:
 
 ### 🔹 Clone the Repository
 ```sh
-git clone https://github.com/your-username/social-distance-violation-alert.git
+git clone https://github.com/princedmello/social-distance-violation-alert.git
 cd social-distance-violation-alert
